@@ -1,0 +1,10 @@
+T_Bsc1 :  /public/workspace/wulx/ANNUO/data/ANCJS190333_PM-JS190333-01_AHYJWHCCXY_2019-02-26/Cleandata/T-Bsc1/
+A20190305 : /public/workspace/wulx/ANNUO/data/ANCJS190370_PM-JS190370-03_BHYTHJCCXY_2019-04-13/Cleandata/1-4/
+A20190312 : /public/workspace/wulx/ANNUO/data/ANCJS190370_PM-JS190370-03_BHYTHJCCXY_2019-04-13/Cleandata/5-8/
+
+D0927 : /data/202.195.187.5/public/workspace/DATA/sorted_by_date/2020-11-13/Lnj202010003/LPL2020101002/Rawdata/
+E0927 : /data/202.195.187.5/public/workspace/DATA/sorted_by_date/2020-11-13/Lnj202010003/LPL2020101005/Data/
+
+
+paired : LCBM : /public/workspace/DATA/sorted_by_date/2021-11-20/10X-WSY
+LUAD : 
